@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kanishka1006/Leetcode/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/kanishka1006/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kanishka1006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kanishka1006/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kanishka1006/Leetcode/tree/master/1563-stone-game-v) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kanishka1006/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kanishka1006/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
